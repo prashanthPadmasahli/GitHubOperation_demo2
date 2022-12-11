@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04669242294598C4001326B7 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04669241294598C4001326B7 /* HomeView.swift */; };
 		049CD1032945960A003DA3C5 /* GitHubOperationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CD1022945960A003DA3C5 /* GitHubOperationApp.swift */; };
 		049CD1052945960A003DA3C5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CD1042945960A003DA3C5 /* ContentView.swift */; };
 		049CD10729459616003DA3C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 049CD10629459616003DA3C5 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04669241294598C4001326B7 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		049CD0FF2945960A003DA3C5 /* GitHubOperation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHubOperation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		049CD1022945960A003DA3C5 /* GitHubOperationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubOperationApp.swift; sourceTree = "<group>"; };
 		049CD1042945960A003DA3C5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				049CD1022945960A003DA3C5 /* GitHubOperationApp.swift */,
 				049CD1042945960A003DA3C5 /* ContentView.swift */,
+				04669241294598C4001326B7 /* HomeView.swift */,
 				049CD10629459616003DA3C5 /* Assets.xcassets */,
 				049CD10829459616003DA3C5 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04669242294598C4001326B7 /* HomeView.swift in Sources */,
 				049CD1052945960A003DA3C5 /* ContentView.swift in Sources */,
 				049CD1032945960A003DA3C5 /* GitHubOperationApp.swift in Sources */,
 			);
