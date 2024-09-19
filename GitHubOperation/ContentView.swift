@@ -19,7 +19,7 @@ struct ContentView: View {
     }
 }
 
-//added enhancement-1
+//added enhancement-2
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
